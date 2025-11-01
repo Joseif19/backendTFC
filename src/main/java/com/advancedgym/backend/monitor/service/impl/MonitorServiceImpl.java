@@ -4,6 +4,7 @@ import com.advancedgym.backend.monitor.model.Especialidad;
 import com.advancedgym.backend.monitor.model.Monitor;
 import com.advancedgym.backend.monitor.model.MonitorDTO;
 import com.advancedgym.backend.monitor.repository.MonitorRepository;
+import com.advancedgym.backend.monitor.repository.EspecialidadRepository;
 import com.advancedgym.backend.monitor.service.MonitorService;
 import com.advancedgym.backend.monitor.util.MonitorMapper;
 import org.springframework.beans.factory.annotation.Autowired;
