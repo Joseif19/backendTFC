@@ -1,5 +1,6 @@
-package com.advancedgym.backend.monitor.controller;
+package com.advancedgym.backend.monitor.controller.impl;
 
+import com.advancedgym.backend.monitor.controller.EspecialidadAPI;
 import com.advancedgym.backend.monitor.model.Especialidad;
 import com.advancedgym.backend.monitor.repository.EspecialidadRepository;
 import org.springframework.beans.factory.annotation.Autowired;
